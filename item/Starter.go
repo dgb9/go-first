@@ -1,5 +1,5 @@
 package item
 
 func Display() string {
-	return "this is the value 1"
+	return "this is the value that was considered"
 }
